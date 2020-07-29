@@ -6,4 +6,5 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/TeodorHMX1"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Follow me on <a href="https://zeoflow.com/teo">ZeoFlow</a>
+- Follow me on <a href="https://instagram.com/teo.grigor">Instagram</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/teo.grigor/">LinkedIn</a> 💼
