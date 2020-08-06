@@ -12,6 +12,6 @@ I'm working on ZeoFlow Development (including website/android app/database/backe
 I am currently studying my bachelor degree in games programming as full-time and besides that, I am working at open source projects too, therefore all my contributions are done in my free time. Sponsorship helps me cover some bills, save time with the dinner tiers and keeps me working open-source without having a job. You can view my sponsorship page <a href="https://github.com/sponsors/TeodorHMX1">here</a>.
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/TeodorHMX1"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Follow me on <a href="https://zeoflow.com/teo">ZeoFlow</a>
-- Follow me on <a href="https://instagram.com/teo.grigor">Instagram</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/teo.grigor/">LinkedIn</a> 💼
+- View my portofolio <a href="https://team.zeoflow.com/teodor_g">here</a>
+- Follow me on <a href="https://instagram.com/teo.grigor">Instagram</a>
