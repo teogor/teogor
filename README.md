@@ -18,7 +18,7 @@ I am currently studying my bachelor degree in games programming as full-time and
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/TeodorHMX1"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Sharing updates on <a href="https://www.linkedin.com/in/teo.grigor/">LinkedIn</a> 💼
 - View my portofolio <a href="https://team.zeoflow.com/teodor_g" target="_blank">here</a>
-- View my resume <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/TeodorHMX1/TeodorHMX1/master/assets/documents/resume_teodor_grigor.pdf">here</a>
+- View my resume <a href="https://docs.google.com/document/d/1s0ml_rhF7VQDYGp3luj5dfmC0n1T_iwZHoRN7siKy_g/edit">here</a>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:teo@zeoflow.com)](mailto:teo@zeoflow.com)
 [![ZeoFlow Badge](http://img.shields.io/badge/-ZeoFlow-black?style=flat-square&logo=github&link=https://github.com/zeoflow)](https://github.com/zeoflow)
