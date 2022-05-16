@@ -9,7 +9,7 @@ By day, I am a Games Programmer Student at the University of Northampton. When I
 I'm working on ZeoFlow Development (including website/android app/database/backend) and Quest-Mode (educational website)
 
 ### How sponsorship helps me
-I am currently studying my bachelor degree in games programming as full-time and besides that, I am working at open source projects too, therefore all my contributions are done in my free time. Sponsorship helps me cover some bills, save time with the dinner tiers and keeps me working open-source without having a job. You can view my sponsorship page <a href="https://github.com/sponsors/TeodorHMX1">here</a>.
+I am currently studying my bachelor degree in games programming as full-time and besides that, I am working at open source projects too, therefore all my contributions are done in my free time. Sponsorship helps me cover some bills, save time with the dinner tiers and keeps me working open-source without having a job. You can view my sponsorship page <a href="https://github.com/sponsors/teogor">here</a>.
 
 [![Teodor's github stats](https://github-readme-stats.vercel.app/api?username=teogor&theme=dark&show_icons=true&count_private=true)](https://github.com/teogor)
 
