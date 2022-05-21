@@ -1,12 +1,9 @@
 # 👋🏻 Hello there, I'm Teodor 👨🏻‍💻
 
-<!-- <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="Banner that describes Teodor Grigor - games programmer and android developer"> -->
-
-### Bio
-By day, I am a Games Programmer Student at the University of Northampton. When I am not studying I am most likely **coding for [ZeoFlow](https://zeoflow.com/team/teodor_g)(@zeoflow)**, **hacking on side projects(@almt-uk)**, **creating open-source software**, chatting with my friends or travelling.
+<!-- <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="Learn More About Me | Teodor Grigor - Android Engineer, Video Game Developer and UI/UX Designer"> -->
 
 ### What I'm working on
-I'm working on ZeoFlow Development (including website/android app/database/backend) and Quest-Mode (educational website)
+I'm working on open-source libraries for android at @zeoflow.
 
 ### How sponsorship helps me
 I am currently studying my bachelor degree in games programming as full-time and besides that, I am working at open source projects too, therefore all my contributions are done in my free time. Sponsorship helps me cover some bills, save time with the dinner tiers and keeps me working open-source without having a job. You can view my sponsorship page <a href="https://github.com/sponsors/teogor">here</a>.
@@ -22,4 +19,4 @@ I am currently studying my bachelor degree in games programming as full-time and
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:teo@zeoflow.com)](mailto:teo@zeoflow.com)
 [![ZeoFlow Badge](http://img.shields.io/badge/-ZeoFlow-black?style=flat-square&logo=github&link=https://github.com/zeoflow)](https://github.com/zeoflow)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teogor/)](https://www.linkedin.com/in/teo-grigor/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teogor/)](https://www.linkedin.com/in/teogor/)
