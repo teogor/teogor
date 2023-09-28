@@ -1,22 +1,27 @@
-# 👋🏻 Hello there, I'm Teodor 👨🏻‍💻
+# 👋🏻 Hey there, I'm Teodor Grigor 👨🏻‍💻
 
-<!-- <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="Learn More About Me | Teodor Grigor - Android Engineer, Video Game Developer and UI/UX Designer"> -->
+## About Me
+I'm a dedicated open-source enthusiast, Android engineer, video game developer, and UI/UX designer. My passion lies in crafting innovative solutions and making meaningful contributions to the open-source community.
 
-### What I'm working on
-I'm working on open-source libraries for android at @zeoflow.
+### Current Focus
+I'm deeply engaged in developing open-source libraries for Android, with a specific focus on Kotlin Multiplatform (KMP). These libraries are geared towards enhancing the Android development landscape and offering valuable tools to fellow developers.
 
-### How sponsorship helps me
-I am currently studying my bachelor degree in games programming as full-time and besides that, I am working at open source projects too, therefore all my contributions are done in my free time. Sponsorship helps me cover some bills, save time with the dinner tiers and keeps me working open-source without having a job. You can view my sponsorship page <a href="https://github.com/sponsors/teogor">here</a>.
+### Supporting My Endeavors
+I'm actively involved in contributing to open-source projects during my free time. Sponsorship plays a pivotal role in sustaining my efforts by covering essential expenses, allowing me to allocate more time to open-source work, and ensuring the continuity of my contributions without the constraints of a full-time job. If you'd like to support my endeavors, you can do so by visiting my [sponsorship page](https://github.com/sponsors/teogor).
 
-[![Teodor's github stats](https://github-readme-stats.vercel.app/api?username=teogor&theme=dark&show_icons=true&count_private=true)](https://github.com/teogor)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teogor&theme=dark&show_icons=true&count_private=true&layout=compact)](https://github.com/teogor)
+## Discover More About Me 🌐
+- Dive into my portfolio at [teogor.dev](https://teogor.dev)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/teogor/) 💼
+- Catch up with me on [Instagram](https://www.instagram.com/teogor.dev/) 📸
+- Explore my professional journey through my [resume](https://teogor.dev/resume)
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/teogor"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- View my portfolio <a href="https://teogor.dev" target="_blank">here</a>
-- Sharing updates on <a href="https://www.linkedin.com/in/teogor/">LinkedIn</a> 💼
-- View my resume <a href="https://docs.google.com/document/d/1s0ml_rhF7VQDYGp3luj5dfmC0n1T_iwZHoRN7siKy_g/edit">here</a>
+### Get in Touch 📬
+- 📧 Email: [open-source@teogor.dev](mailto:open-source@teogor.dev)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:teo@zeoflow.com)](mailto:teo@zeoflow.com)
-[![ZeoFlow Badge](http://img.shields.io/badge/-ZeoFlow-black?style=flat-square&logo=github&link=https://github.com/zeoflow)](https://github.com/zeoflow)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teogor/)](https://www.linkedin.com/in/teogor/)
+Don't hesitate to reach out, connect, or delve into my work. I'm enthusiastic about collaborating and sharing knowledge with the open-source community! 🚀
+
+### GitHub Stats
+[![Teodor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teogor&theme=dark&show_icons=true&count_private=true)](https://github.com/teogor)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teogor&theme=dark&show_icons=true&count_private=true&layout=compact)](https://github.com/teogor)
